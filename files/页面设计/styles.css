@@ -12,58 +12,6 @@
   position:absolute;
   z-index:0;
 }
-#u8_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:391px;
-  height:170px;
-}
-#u8 {
-  border-width:0px;
-  position:absolute;
-  left:20px;
-  top:21px;
-  width:391px;
-  height:170px;
-  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
-  font-style:normal;
-  text-align:left;
-}
-#u8_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:2px;
-  width:387px;
-  word-wrap:break-word;
-}
-#u9_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:320px;
-  height:597px;
-}
-#u9 {
-  border-width:0px;
-  position:absolute;
-  left:60px;
-  top:250px;
-  width:320px;
-  height:597px;
-}
-#u9_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
 #u10_img {
   border-width:0px;
   position:absolute;
@@ -75,7 +23,7 @@
 #u10 {
   border-width:0px;
   position:absolute;
-  left:523px;
+  left:20px;
   top:21px;
   width:391px;
   height:170px;
@@ -102,12 +50,64 @@
 #u11 {
   border-width:0px;
   position:absolute;
-  left:548px;
+  left:60px;
   top:250px;
   width:320px;
   height:597px;
 }
 #u11_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u12_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:391px;
+  height:170px;
+}
+#u12 {
+  border-width:0px;
+  position:absolute;
+  left:523px;
+  top:21px;
+  width:391px;
+  height:170px;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-style:normal;
+  text-align:left;
+}
+#u12_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:387px;
+  word-wrap:break-word;
+}
+#u13_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:597px;
+}
+#u13 {
+  border-width:0px;
+  position:absolute;
+  left:548px;
+  top:250px;
+  width:320px;
+  height:597px;
+}
+#u13_text {
   border-width:0px;
   position:absolute;
   left:0px;
